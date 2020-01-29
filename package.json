@@ -1,0 +1,28 @@
+{
+  "name": "thonk",
+  "version": "1.0.0",
+  "description": "change your verbs from unnecessary usage of bad words to thonk",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SammyRobensParadise/thonk.git"
+  },
+  "keywords": [
+    "thonk",
+    "string",
+    "thonkify",
+    "NLP",
+    "natural",
+    "language",
+    "processing"
+  ],
+  "author": "Sammy Robens-Paradise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SammyRobensParadise/thonk/issues"
+  },
+  "homepage": "https://github.com/SammyRobensParadise/thonk#readme"
+}

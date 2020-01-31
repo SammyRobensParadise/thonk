@@ -1,6 +1,6 @@
 {
   "name": "thonk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "change your verbs from unnecessary usage of bad words to thonk",
   "main": "index.js",
   "scripts": {

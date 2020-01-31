@@ -1,12 +1,15 @@
 # Thonk.js
-An npm package for when you just gotta thonk
+An npm package for when you just gotta thonk\
+![npm](https://img.shields.io/npm/v/thonk)
 ## Why Tho ⁉️
 Have you ever just feel the need to THONK? well look no further! Join me on my journey with this gross misuse of  natural language processing to replace every appropriate verb and adjective in a string with the words THONK or THONKING! 🤯🥳💯
 
 # Usage
 ## Install 
 
-`npm install --save thonk`
+```bash
+npm install --save thonk
+```
 
 ## Example
 ```js
@@ -19,7 +22,11 @@ thonk.thonkify(sting).then(data => console.log(data))
 ## API
 `thonk.thonkify(string,callback)`\
 Returns a <b>thonked</b> string\
-Note: Because I am using an NLP (natural language processing) API to detect the words to replace, call are `async` and must be treated as such.
+
+`thonk.chonkify(string,callback)`\
+Returns a <b>chonked</b> string\
+\
+<b>Note:</b> Because I am using an NLP (natural language processing) API to detect the words to replace, calls are `async` and must be treated as such.
 
 ## Contributing
 
